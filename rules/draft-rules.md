@@ -24,6 +24,12 @@
 - A player at 0 health loses.
 
 ## My rule
+- A unit that attacks the enemy player deals 1 extra damage
 
 Add one rule of your own here, and say what it does. A sentence or two is
 plenty.
+
+## Script-generated rules
+
+- A unit that survives combat gains 1 health.
+- A player with no units at the start of a round loses 2 health.

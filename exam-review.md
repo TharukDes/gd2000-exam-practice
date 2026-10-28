@@ -13,7 +13,9 @@ players do for fun." Pick one of Cookie Clicker, The Stanley Parable, or
 Minecraft in Creative Mode. Argue whether it is a game under that definition,
 and say which part of the definition it stresses or breaks.
 
-(answer here)
+I think minecraft is a game because players can build and explore for fun. But it has less structure because
+there is no main goal. Most people just beat the ender dragon and count that as beating the game but technically
+you can create your own end goal
 
 ## 2. Three games
 
@@ -23,7 +25,14 @@ alignment (1v1, team vs team, co-op, 1-vs-many, solo), and its information
 state (perfect or imperfect). Then say which of the three you would rather
 design, and why.
 
-(answer here)
+- Minecraft -> Core skill is spatial, player alignment is solo, information state is imperfect because every world is unique
+- Rocket league -> Core skill is dexterity, player alignment is 1v1/team vs team, information state is imperfect because you dont 
+know what the other team would do next
+- Fortite -> Core skill is dexterity, player alignment is 1v1/team vs team, information state is imperfect because you cant see where
+every player is
+
+I would rather design minecraft because its my favorite game and i like the idea of letting players explore and create their own
+goals
 
 ## 3. Chess and Texas Hold'em
 
@@ -32,7 +41,9 @@ randomness change what the player is actually doing in each. Then give one
 concrete design consequence: something you would have to change if you moved
 chess's rules to poker's information model, or the other way around.
 
-(answer here)
+Chess has no hidden information or randomness so players focus on planning their moves and predicting their opponents. Texas Hold'em
+has hidden cards and random draws so players are forced to make decisions without knowing anything. If chess uses hidden information
+players would have to guess where each peice is instead of seeing the whole board
 
 ## 4. Tetris
 
@@ -40,7 +51,8 @@ In class almost everyone got bored before playing a full hour of Tetris. Why?
 What would you change about the game to keep a player interested for that
 long, and what would that change cost?
 
-(answer here)
+People got bored because Tetris can get very repeatative when you play it for an hour straight. I would add challenges and different
+levels. But this could make the game more complicated and take away its simple concept/design
 
 ## 5. The game loop
 
@@ -51,9 +63,10 @@ Describe its game loop: what the player does, what the game updates in
 response, and what feedback the player gets. Then remove one step of the loop
 and describe what breaks.
 
-Game:
+Game: Minecraft
 
-(answer here)
+The player explores, collects resources and builds stuff. The game updates the world based on what the player does. If the game 
+doesnt show feedback on the player's screen when they place blocks, players will never know if their action worked
 
 ## 6. Autobattler design
 
@@ -62,4 +75,5 @@ design rule -- for example, that a triple can only be ranked up once, or that
 damage scales with the number of surviving units -- and explain the trade-off
 it makes: what it encourages in the player, and what it costs.
 
-(answer here)
+In hearthstone, combining 3 minions creates a stronger minion. This makes players want to collect duplicates and plan their teams. But
+players could waste their gold searching for these duplicates rather than buying other minions that could help them more
