@@ -77,3 +77,6 @@ it makes: what it encourages in the player, and what it costs.
 
 In hearthstone, combining 3 minions creates a stronger minion. This makes players want to collect duplicates and plan their teams. But
 players could waste their gold searching for these duplicates rather than buying other minions that could help them more
+
+
+test....

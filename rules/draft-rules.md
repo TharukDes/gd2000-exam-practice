@@ -25,6 +25,7 @@
 
 ## My rule
 - A unit that attacks the enemy player deals 1 extra damage
+- this is a test rule
 
 Add one rule of your own here, and say what it does. A sentence or two is
 plenty.
